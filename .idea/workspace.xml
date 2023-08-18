@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a353018-9cae-41b4-953d-f54336412dca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/DTO/UserParameterDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/DTO/UserParameterSimplifiedDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/useCase/GetAllUserParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/useCase/UpdateParametersUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/utils/StatusController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senai/laziot/action/ActionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senai/laziot/action/ActionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senai/laziot/device/DeviceEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senai/laziot/device/DeviceEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/laziot/action/ActionRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/laziot/action/ActionRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/senai/laziot/device/DeviceEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/senai/laziot/device/DeviceEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/action/ActionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/action/ActionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/codeDevice/useCases/GetEmissorCodesUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/codeDevice/useCases/GetEmissorCodesUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/codeDevice/useCases/GetReceptorCodesUseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/codeDevice/useCases/GetReceptorCodesUseCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/device/DeviceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/device/DeviceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/device/DeviceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/device/DeviceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/parameters/ParametersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/security/CustomConfigurations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/user/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../laziot-backend/src/main/java/com/senai/laziot/user/UserRepository.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="laziot-iot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="12" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GHsOqJZaKKCv3pRRJfQUMPF8GN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laziot-backend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dev\laziot-backend\src\main\resources" />
+      <recent name="D:\Dev\laziot-backend\src\main\java\com\senai\laziot" />
+      <recent name="D:\Dev\laziot-backend-iot\src\main\java\com\senai\laziot\user" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Laziot_Backend_Web">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="laziot" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="laziot" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laziot_Backend_IOT" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="com.senai.laziot.LaziotBackendApplication" />
+      <module name="laziot-iot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laziot_Backend_Web" type="Application" factoryName="Application" singleton="false">
+      <option name="MAIN_CLASS_NAME" value="com.senai.laziot.LaziotApplication" />
+      <module name="laziot-backend" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../laziot-backend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Laziot_Backends" type="CompoundRunConfigurationType">
+      <toRun name="Laziot_Backend_IOT" type="Application" />
+      <toRun name="Laziot_Backend_Web" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="Laziot_Backend_IOT" type="Application" />
+      <toRun name="Laziot_Backend_Web" type="Application" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LaziotApplication-BackWeb" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true">
+      <module name="laziot-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senai.laziot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.senai.laziot.LaziotApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaziotBackendApplication-IOT" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true">
+      <module name="laziot-iot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senai.laziot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.senai.laziot.LaziotBackendApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Laziot_Backend_IOT" />
+      <item itemvalue="Application.Laziot_Backend_Web" />
+      <item itemvalue="Compound.Laziot_Backends" />
+      <item itemvalue="Spring Boot.LaziotApplication-BackWeb" />
+      <item itemvalue="Spring Boot.LaziotBackendApplication-IOT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LaziotApplication-BackWeb" />
+        <item itemvalue="Spring Boot.LaziotBackendApplication-IOT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a353018-9cae-41b4-953d-f54336412dca" name="Default Changelist" comment="" />
+      <created>1666056814516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666056814516</updated>
+      <workItem from="1666056816629" duration="2749000" />
+      <workItem from="1666315515589" duration="8032000" />
+      <workItem from="1666373187669" duration="9920000" />
+      <workItem from="1666663140094" duration="595000" />
+      <workItem from="1666734211571" duration="5316000" />
+      <workItem from="1667003482144" duration="595000" />
+      <workItem from="1667091188559" duration="8159000" />
+      <workItem from="1667167912852" duration="10301000" />
+      <workItem from="1667263451776" duration="2234000" />
+      <workItem from="1667275314426" duration="221000" />
+      <workItem from="1667345584017" duration="1978000" />
+      <workItem from="1667347717880" duration="3967000" />
+      <workItem from="1667437762629" duration="3394000" />
+      <workItem from="1667528237188" duration="3393000" />
+      <workItem from="1668559151128" duration="599000" />
+      <workItem from="1668560882323" duration="8025000" />
+      <workItem from="1668648805606" duration="4888000" />
+      <workItem from="1668731713952" duration="225000" />
+      <workItem from="1668732093192" duration="582000" />
+      <workItem from="1668732689212" duration="8276000" />
+      <workItem from="1668817121999" duration="3626000" />
+      <workItem from="1668821170952" duration="3329000" />
+      <workItem from="1668838078653" duration="701000" />
+      <workItem from="1668883479900" duration="4595000" />
+      <workItem from="1668908376401" duration="594000" />
+      <workItem from="1668914414588" duration="4773000" />
+      <workItem from="1669327717158" duration="3545000" />
+      <workItem from="1669427249505" duration="11085000" />
+      <workItem from="1669480853110" duration="15430000" />
+      <workItem from="1669506747001" duration="10457000" />
+      <workItem from="1669581723406" duration="654000" />
+      <workItem from="1669597515571" duration="11667000" />
+      <workItem from="1669685549704" duration="3473000" />
+      <workItem from="1669750976948" duration="595000" />
+      <workItem from="1669768314103" duration="840000" />
+      <workItem from="1669846365189" duration="3092000" />
+      <workItem from="1669935360996" duration="4218000" />
+      <workItem from="1669959428248" duration="615000" />
+      <workItem from="1670012635612" duration="6355000" />
+      <workItem from="1670094970886" duration="6363000" />
+      <workItem from="1670124878142" duration="5034000" />
+      <workItem from="1670136907150" duration="2402000" />
+      <workItem from="1670182228787" duration="7484000" />
+      <workItem from="1670208760176" duration="8610000" />
+      <workItem from="1670247816946" duration="4432000" />
+      <workItem from="1670288644157" duration="18044000" />
+      <workItem from="1670334719204" duration="13355000" />
+      <workItem from="1670448989786" duration="422000" />
+      <workItem from="1670449424960" duration="9697000" />
+      <workItem from="1670510180867" duration="7416000" />
+      <workItem from="1670591495385" duration="595000" />
+      <workItem from="1670640124515" duration="3103000" />
+      <workItem from="1670686097635" duration="2316000" />
+      <workItem from="1670717356473" duration="5396000" />
+      <workItem from="1670784409574" duration="2198000" />
+      <workItem from="1670801886451" duration="5487000" />
+      <workItem from="1670822041400" duration="3549000" />
+      <workItem from="1670880563227" duration="5924000" />
+      <workItem from="1670909503488" duration="634000" />
+      <workItem from="1671208650301" duration="72000" />
+      <workItem from="1671220953932" duration="4245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
